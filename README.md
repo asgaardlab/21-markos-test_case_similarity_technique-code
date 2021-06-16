@@ -1,6 +1,6 @@
 ## Identifying Similar Test Cases That Are Specified in Natural Language
 
-This repository contains the source code of our technique to identify similar test cases written in natural language. The technique first clusters test steps which are semantically similar and then uses those clusters to identify similar test cases.
+This repository contains the source code of our technique and related experiments to identify similar test cases written in natural language. The technique first clusters test steps which are semantically similar and then uses those clusters to identify similar test cases.
 
 </br>
 
