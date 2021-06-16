@@ -37,16 +37,17 @@ To find similar test cases, we used the identified clusters of similar test step
  The following directories contains the source code of all the approaches that were part of our experiments. 
 
 
- - [Test step clustering](/Test step clustering/): contains the scripts to read the model features, build and evaluate prediction models using three algorithms: XGBoost, Random Forest, and Logistic Regression. Note that, for each algorithm, there are 3 different scripts, one for each data group we adopted in our study: regular matches, time blowout matches, and score blowout matches.
+ - [test-step-clustering](/test-step-clustering/): contains the notebooks with the source code for our test step clustering experiments.
  
+ - [test-case-similarity](/test-case-similarity/): contains the notebooks with the source code for our test case similarity experiments.
  
- 
+
 ---
 
 
 ## Dependencies
 
-The following dependencies are required to run the scripts on your local machine (you do not need to locally install them if you are running the scripts on cloud services like Google Colab):
+The following dependencies are required to run the notebooks on your local machine:
 
  - Python 3.7
  
