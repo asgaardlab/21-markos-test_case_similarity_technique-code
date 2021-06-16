@@ -41,6 +41,8 @@ To find similar test cases, we used the identified clusters of similar test step
  
  - [test-case-similarity](/test-case-similarity/): contains the notebooks with the source code for our test case similarity experiments.
  
+ - [evaluations](/evaluations/): contains the notebooks with the source code to evaluate all the approaches for test step clustering and techniques for test case similarity.
+
 
 ---
 
